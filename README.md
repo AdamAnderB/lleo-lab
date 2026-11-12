@@ -24,7 +24,7 @@ Open http://localhost:8000. Edit page content in `build.py`, the visual system i
 GitHub Settings → Pages → Deploy from a branch → main → /(root). An empty `.nojekyll` disables Jekyll. Site content is public. GitHub handles sign-in and project permissions; this website has no private member area.
 
 ## Scope and provenance
-The logo is the existing user-supplied `LLEO Lab Dog Logo Banner.png`, copied unchanged. Palette: deep navy #142e40, warm ivory #faf6ed, golden orange #df9639.
+The logo is the existing user-supplied `ChatGPT Image Nov 11, 2026, 07_35_38 PM.png`, copied unchanged. Palette: deep navy #142e40, warm ivory #faf6ed, golden orange #df9639.
 Dissertation and earlier collaborations are explicitly labeled as foundations/prior work. No students, collaborators, studies, positions, or publications are invented. The initial repository belongs to AdamAnderB, not a GitHub organization.
 
 ## Grow into an organization
